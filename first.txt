@@ -1,2 +1,3 @@
 gitの基礎を学びます　
 基礎練主です　
+git add git commit
